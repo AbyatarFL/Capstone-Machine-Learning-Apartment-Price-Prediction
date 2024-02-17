@@ -26,7 +26,7 @@ Regression Models can be evaluated using Mean Absolute Error (MAE), Mean Absolut
 ## Data
 Data Source:
 - Main Dataset
-  - Daegu Apartment: Can be downloaded in this GitHub repository file.
+  - Daegu Apartment: Can be downloaded in this GitHub repository file (data_daegu_apartment.csv).
 ![Data_Dict](https://github.com/AbyatarFL/Capstone-Machine-Learning-Apartment-Price-Prediction/assets/109770559/522fc00a-566b-4c96-9016-b1d3d6535c8d)
 
 ## Result Summary
