@@ -73,3 +73,8 @@ To measure the success of these recommendations, you could track metrics such as
 - **User Satisfaction**: Conduct surveys to gauge user satisfaction with the price predictions. The goal is to increase user satisfaction scores.
 - **Data-Driven Development**: Property builders and developers can use model data to determine which features should be prioritized in development projects, based on current market preferences & also formulate marketing strategies targeting property features that significantly influence the sales price.
 - **Business Impact**: Track the impact of the model on business outcomes, such as the number of properties sold and the average selling price. The goal is to increase the number of properties sold and the average selling price.
+- 
+
+## Presentation Slides
+For a more explanation, you can read the presentation slides which can be accessed in the file directory of this repository with the file name ***'Daegu Apartment Price Prediction_Slides.pdf'*** or directly click the following link:
+[Presentation Slides Link](https://github.com/AbyatarFL/Capstone-Machine-Learning-Apartment-Price-Prediction/blob/main/Daegu%20Apartment%20Price%20Prediction_Slides.pdf)
